@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/bullyrooks/microservice-cookiecutter",
+  "commit": "627a6507a37bb8a13be55dfe83b5dbd48884a191",
+  "context": {
+    "cookiecutter": {
+      "service_name": "Test Service One",
+      "application_name": "TestServiceOneApplication",
+      "service_slug": "test-service-one",
+      "package_name": "test_service_one",
+      "service_port": "8080",
+      "service_registry": "bullyrooks/test-service-one",
+      "service_namespace": "bullyrooks",
+      "githuborg": "bullyrooks-org",
+      "_template": "https://github.com/bullyrooks/microservice-cookiecutter"
+    }
+  },
+  "directory": null
+}
