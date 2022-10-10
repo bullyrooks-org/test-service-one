@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/bullyrooks/microservice-cookiecutter",
-  "commit": "627a6507a37bb8a13be55dfe83b5dbd48884a191",
+  "commit": "450e71596bc51a28ff2f79886e3c8d89f975bb62",
   "context": {
     "cookiecutter": {
       "service_name": "Test Service One",
@@ -14,5 +14,6 @@
       "_template": "https://github.com/bullyrooks/microservice-cookiecutter"
     }
   },
-  "directory": null
+  "directory": null,
+  "checkout": null
 }
